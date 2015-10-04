@@ -19,3 +19,4 @@ end
 
 gem 'haml'
 gem 'simple_form'
+gem 'bootstrap-sass'
